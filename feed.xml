@@ -5,7 +5,66 @@
   <id>https://showcase14.curation.space/</id>
   <link href="https://showcase14.curation.space/"/>
   <link href="https://showcase14.curation.space/feed.xml" rel="self"/>
+  <updated>2015-11-15T02:17:54Z</updated>
   <author>
     <name>Felix K</name>
   </author>
+  <entry>
+    <title>Example with Lightbox Images</title>
+    <link rel="alternate" href="https://showcase14.curation.space/2015/11/15/example-with-lightbox-images.html"/>
+    <id>https://showcase14.curation.space/2015/11/15/example-with-lightbox-images.html</id>
+    <published>2015-11-15T02:17:54Z</published>
+    <updated>2015-12-18T23:28:11+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        There are various possibilities to position images in a note. You can either pull a image to the left or right of the note in a free-floating or fixed format. 
+       &lt;span style=""&gt;This is a sample note which uses the tag &lt;/span&gt; 
+       &lt;strong style=""&gt;clb-image-lightbox.&lt;/strong&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The lightbox image strategy takes the pictures in your note and converts them to thumbnail images on your web page. When clicking on the image on the website all &amp;ldquo;lightbox&amp;rdquo; popup will be opened which shows the picture in full quality. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        You find the image handling documentation on the 
+       &lt;a href="https://curation.cloudburo.net/2015/05/14/feature-picture-handling-in-evernote-notes.html" rel="nofollow"&gt;Cloudburo Curation Platform documentation site&lt;/a&gt;. 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="text-decoration: underline; color: #993300;"&gt;&lt;em&gt;&lt;strong&gt;Market in Cannes (click on the images)&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/f77267bdc585d08ed50dbed5bfff8f0b.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-f77267bdc585d08ed50dbed5bfff8f0b.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="color: #993300;"&gt;&lt;em&gt;&lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;Sunset in Cagnes sur Mer&lt;/strong&gt;&lt;/span&gt;&lt;/em&gt;&lt;/span&gt; 
+       &lt;br&gt; &lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/7af33672d15525e0a22663ce7f1e0fe8.jpeg"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-7af33672d15525e0a22663ce7f1e0fe8.jpeg" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
 </feed>
