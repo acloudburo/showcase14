@@ -5,10 +5,190 @@
   <id>https://showcase14.curation.space/</id>
   <link href="https://showcase14.curation.space/"/>
   <link href="https://showcase14.curation.space/feed.xml" rel="self"/>
-  <updated>2015-11-15T02:17:54Z</updated>
+  <updated>2015-11-19T11:04:29Z</updated>
   <author>
     <name>Felix K</name>
   </author>
+  <entry>
+    <title>Example with fixed Images</title>
+    <link rel="alternate" href="https://showcase14.curation.space/2015/11/19/example-with-fixed-images.html"/>
+    <id>https://showcase14.curation.space/2015/11/19/example-with-fixed-images.html</id>
+    <published>2015-11-19T11:04:29Z</published>
+    <updated>2015-12-18T23:30:54+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        This is a example which keeps the images at fixed position between the text. 
+       &lt;span&gt;You find the image handling documentation on the &lt;/span&gt; 
+       &lt;a href="https://curation.cloudburo.net/2015/05/14/feature-picture-handling-in-evernote-notes.html" rel="nofollow"&gt;Cloudburo Curation Platform documentation site&lt;/a&gt; 
+       &lt;span&gt;.&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Lorem ipsum dolor sit amet, pri in euismod mentitum. Eum ea eius possim fierent. Suas accusam mnesarchum per an, vim at prompta repudiare scribentur, has ex ubique deserunt constituam. Te lobortis quaestio imperdiet qui. Duo te saperet ceteros, et dicat utinam menandri pri. Eu nemore vituperata mei, assum eirmod minimum vix no, ex ius decore civibus fastidii. 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/e57bb1afceb3a93d50fe18f9b8df67fd.jpeg" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Unum antiopam argumentum eu his, munere efficiendi vim ad. Mea in detracto lobortis quaestio, at eloquentiam adversarium pri. Feugait consetetur sit ne, eos aperiam euripidis et. Accusamus urbanitas no nec. 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/3ffb8974d961108775652584314bb676.jpeg" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Etiam interpretaris pri ut, te impedit eligendi vituperatoribus sed. Vis te solum partiendo tincidunt, apeirian mediocritatem sea cu. Ea adhuc admodum suavitate his, dolor quaestio disputando ut mei. Putant persius consequuntur in has. 
+       &lt;br&gt; 
+       &lt;br&gt;Noster omnium audiam te sea. Erat fabulas petentium eos ea. Has tibique mandamus no, ei eros novum vel, id his veniam aliquid. 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        An purto novum similique sed, sea ut tollit liberavisse, et esse omittantur his. Mel possim debitis in. 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/9da86135f8b117ced317b8301edec7a5.jpeg" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Example with Youtube Videos</title>
+    <link rel="alternate" href="https://showcase14.curation.space/2015/11/15/example-with-youtube-videos.html"/>
+    <id>https://showcase14.curation.space/2015/11/15/example-with-youtube-videos.html</id>
+    <published>2015-11-15T04:18:17Z</published>
+    <updated>2015-12-18T23:30:43+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/465f73a77c1570cb4f96eea032dff8fb.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt; 
+       &lt;span&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span&gt;&lt;strong&gt;1980 - 1984 - The Eigthies&lt;/strong&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;strong&gt;&lt;br&gt;&lt;/strong&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Some music memories out of the early eigthies, are used as an example how you can integrate Youtube videos into your blog. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        It&amp;rsquo;s straightforward by using some tags in your note, you can find a description 
+       &lt;a href="https://curation.cloudburo.net/2015/05/18/feature-video-handling-in-evernote-notes-youtube.html" rel="nofollow"&gt;here&lt;/a&gt;. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The embedded video will be responsive, i.e. it will adjust itself to the various device sizes. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        As shown in this example you can combine images with videos easily. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt; 
+        &lt;div&gt;
+          Remember the Italo Disco Time with Raf and Self Control 
+        &lt;/div&gt; 
+        &lt;div&gt; 
+         &lt;br&gt; 
+        &lt;/div&gt; 
+        &lt;div&gt;
+          &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/1_TQjEn6cpQ?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
+        &lt;/div&gt; 
+       &lt;/div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        George Michael released &amp;ldquo;Everything she wants&amp;rdquo;, here in a excellent live concert in Earls Court (2008), traveling back with his audience. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/BDbQHezDg6U?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Ryan Paris produced the one time summer hit „Dolce Vita“, the video shows some interesting fashion styles back from 1980. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/0yoBAZXSN98?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        What a movie „Desperately Seeking Susan“, with Madonna and Rosanna Arquette. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/52iW3lcpK5M?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Example with Lightbox Images</title>
     <link rel="alternate" href="https://showcase14.curation.space/2015/11/15/example-with-lightbox-images.html"/>
