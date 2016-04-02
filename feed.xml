@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Showcase Theme - Slate</title>
-  <subtitle>Slate</subtitle>
-  <id>https://showcase14.curation.space/</id>
-  <link href="https://showcase14.curation.space/"/>
+  <subtitle></subtitle>
+  <id>https://showcase14.curation.space</id>
+  <link href="https://showcase14.curation.space"/>
   <link href="https://showcase14.curation.space/feed.xml" rel="self"/>
   <updated>2015-11-19T11:04:29Z</updated>
   <author>
-    <name>Felix K</name>
+    <name></name>
   </author>
   <entry>
     <title>Example with fixed Images</title>
     <link rel="alternate" href="https://showcase14.curation.space/2015/11/19/example-with-fixed-images.html"/>
     <id>https://showcase14.curation.space/2015/11/19/example-with-fixed-images.html</id>
     <published>2015-11-19T11:04:29Z</published>
-    <updated>2015-12-18T23:30:54+00:00</updated>
+    <updated>2016-04-02T14:59:08+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -75,7 +75,7 @@
     <link rel="alternate" href="https://showcase14.curation.space/2015/11/15/example-with-youtube-videos.html"/>
     <id>https://showcase14.curation.space/2015/11/15/example-with-youtube-videos.html</id>
     <published>2015-11-15T04:18:17Z</published>
-    <updated>2015-12-18T23:30:43+00:00</updated>
+    <updated>2016-04-02T14:59:08+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -194,7 +194,7 @@
     <link rel="alternate" href="https://showcase14.curation.space/2015/11/15/example-with-lightbox-images.html"/>
     <id>https://showcase14.curation.space/2015/11/15/example-with-lightbox-images.html</id>
     <published>2015-11-15T02:17:54Z</published>
-    <updated>2015-12-18T23:28:11+00:00</updated>
+    <updated>2016-04-02T14:59:08+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
